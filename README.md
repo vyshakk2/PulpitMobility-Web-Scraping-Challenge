@@ -1,5 +1,3 @@
-# PulpitMobility-Web-Scraping-Challenge
-pulpit web scraping project submission
 Bevzilla Product Web Scraper
 📌 Overview
 This repository contains a Python-based web scraping project that extracts structured product data from Bevzilla, an e-commerce platform built on Shopify.
@@ -60,4 +58,3 @@ o	A CSV file named final_project.csv will be generated.
 •	Pagination handling is critical for large datasets
 •	Clean data structures simplify downstream analysis
 •	Responsible scraping prevents infinite loops and overload
-<img width="468" height="631" alt="image" src="https://github.com/user-attachments/assets/3518bc7d-8d5a-494f-8d69-f6cd01bfb37e" />
